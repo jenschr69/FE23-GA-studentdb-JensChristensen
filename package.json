@@ -1,0 +1,17 @@
+{
+  "name": "fe23-ga-studentdb-jenschristensen",
+  "version": "1.0.0",
+  "description": "Grit Academy student uppgift Backend Databas kurs Jens Christensen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "MySQL",
+    "Backend",
+    "JS"
+  ],
+  "author": "Jens Christensen",
+  "license": "ISC"
+}
